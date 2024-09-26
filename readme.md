@@ -1,0 +1,1 @@
+# You need to run npm start in both backend and frontend
