@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",               // Use ESNext or ES6 for modules
+    "target": "ESNext",               // Use a modern target like ESNext
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  // "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
